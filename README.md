@@ -13,14 +13,14 @@ Configuration information and resources are stored in `/res`:
 ```
 > res
 | > fonts
-| 	| master_font.ttf
-| >	images
-| 	| buypanel.png
-| 	| statuspanel.png
-| >	levels
-| 	| 1.png
-| 	| 1.tmx
-| 	| waves1.txt
+|   | master_font.ttf
+| > images
+|   | buypanel.png
+|   | statuspanel.png
+| > levels
+|   | 1.png
+|   | 1.tmx
+|   | waves1.txt
 | enemies.csv
 | levels.csv
 | towers.csv
