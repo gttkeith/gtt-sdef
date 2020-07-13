@@ -11,19 +11,19 @@ Simple tower defense game, created using the BAGEL graphics manipulation library
 Configuration information and resources are stored in `/res`:
 
 ```
->	res
-|	>	fonts
-|	|		master_font.ttf
-|	>	images
-|	|		buypanel.png
-|	|		statuspanel.png
-|	>	levels
-|	|		1.png
-|	|		1.tmx
-|	|		waves1.txt
-|		enemies.csv
-|		levels.csv
-|		towers.csv
+> res
+| > fonts
+| 	| master_font.ttf
+| >	images
+| 	| buypanel.png
+| 	| statuspanel.png
+| >	levels
+| 	| 1.png
+| 	| 1.tmx
+| 	| waves1.txt
+| enemies.csv
+| levels.csv
+| towers.csv
 ```
 
 Additional resources can also be placed in the relevant folders.
