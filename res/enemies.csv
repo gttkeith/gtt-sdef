@@ -1,0 +1,4 @@
+slicer;Slicer;res/images/slicer.png;1;2;1;150;;0
+superslicer;Super Slicer;res/images/superslicer.png;1;15;2;112.5;slicer;2
+megaslicer;Mega Slicer;res/images/megaslicer.png;2;10;4;112.5;superslicer;2
+apexslicer;Apex Slicer;res/images/apexslicer.png;25;150;16;56.25;megaslicer;4
